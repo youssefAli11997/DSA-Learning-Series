@@ -2,7 +2,7 @@
 My solutions to DSA Learning Series on Code Chef Online Judge
 
 ## Done
-* Getting started Practice Contest
+* Easy Problems to Get Started
 
 ## In Progress
 * Complexity Analysis + Basics Warm Up
