@@ -1,8 +1,8 @@
 # DSA-Learning-Series
-My solutions to DSA Learning Series on Code Chef Online Judge
+My solutions to [DSA Learning Series](https://www.codechef.com/LEARNDSA) on Code Chef Online Judge
 
 ## Done
-* Getting started Practice Contest
+* Easy Problems to Get Started
 
 ## In Progress
 * Complexity Analysis + Basics Warm Up
