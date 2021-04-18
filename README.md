@@ -1,5 +1,5 @@
 # DSA-Learning-Series
-My solutions to DSA Learning Series on Code Chef Online Judge
+My solutions to [DSA Learning Series](https://www.codechef.com/LEARNDSA) on Code Chef Online Judge
 
 ## Done
 * Easy Problems to Get Started
