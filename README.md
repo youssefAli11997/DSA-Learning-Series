@@ -6,9 +6,9 @@ My solutions to [DSA Learning Series](https://www.codechef.com/LEARNDSA) on Code
 
 ## In Progress
 * Complexity Analysis + Basics Warm Up
+* Linear Data Structures
 
 ## Todo
-* Linear Data Structures
 * Standard Template Library (STL)
 * Divide and Conquer + Binary Search
 * Mathematics in Competitive Programming
