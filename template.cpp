@@ -1,4 +1,12 @@
 #include <iostream>
+#include <string>
+#include <algorithm>
+#include <vector>
+#include <map>
+#include <set>
+#include <utility>
+#include <stack>
+#include <queue>
 
 using namespace std;
 
