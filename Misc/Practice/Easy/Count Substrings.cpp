@@ -15,22 +15,28 @@ int main() {
 
     while(t--) {
         int n; string s; cin>>n>>s;
-        long long cnt = 0;
         int ones = 0;
-        int ones_after[n] = {0};
 
-        for(int i=n-1; i>=0; i--) {
-            if(s[i] == '1') ones++;
-            ones_after[i] = ones;
-        }
+        for(int i=0; i<n; i++) if(s[i] == '1') ones++;
 
-        for(int i=0; i<n; i++) {
-            if(s[i] == '1') {
-                cnt += ones_after[i];
-            }
-        }
+        cout<<1ll * ones * (ones + 1) / 2<<endl;
 
-        cout<<cnt<<endl;
+        // // also correct approach (accepted), but not so optimized
+        // long long cnt = 0;
+        // int ones_after[n] = {0};
+
+        // for(int i=n-1; i>=0; i--) {
+        //     if(s[i] == '1') ones++;
+        //     ones_after[i] = ones;
+        // }
+
+        // for(int i=0; i<n; i++) {
+        //     if(s[i] == '1') {
+        //         cnt += ones_after[i];
+        //     }
+        // }
+
+        // cout<<cnt<<endl;
     }
 
     return 0;
