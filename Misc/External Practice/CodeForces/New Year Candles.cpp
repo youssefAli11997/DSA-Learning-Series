@@ -11,7 +11,16 @@
 using namespace std;
 
 int main() {
-    
+    int a,b; cin>>a>>b;
+    int hours = 0;
+
+    while(a) {
+        if((hours + 1) % b == 0) a++;
+        a--;
+        hours++;
+    }
+
+    cout<<hours<<endl;
 
     return 0;
 }
