@@ -9,6 +9,7 @@
         "stack": "cpp",
         "utility": "cpp",
         "algorithm": "cpp",
-        "map": "cpp"
+        "map": "cpp",
+        "iostream": "cpp"
     }
 }
